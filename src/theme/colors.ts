@@ -1,6 +1,6 @@
 const colors = {
   black: '#000',
-  white: '#eee',
+  white: '#fff',
   blue: '#004761',
   green: '#8cd6bd',
 };
