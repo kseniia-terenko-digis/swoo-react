@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MainPage component matches snapshot 1`] = `
+<Memo(styled.div)
+  alignItems="center"
+  bg="blue"
+  display="flex"
+  flexDirection="column"
+  height="100%"
+  justifyContent="center"
+>
+  <Memo(styled.button)
+    onClick={[Function]}
+  >
+    + 1
+  </Memo(styled.button)>
+  <Memo(styled.div)
+    my={104}
+  >
+    <Memo(styled.span)>
+      10
+    </Memo(styled.span)>
+  </Memo(styled.div)>
+  <Memo(styled.button)
+    onClick={[Function]}
+  >
+    - 1
+  </Memo(styled.button)>
+</Memo(styled.div)>
+`;

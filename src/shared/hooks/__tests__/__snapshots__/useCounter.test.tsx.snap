@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`useQueryParamState hook result matches snapshot 1`] = `
+Object {
+  "all": Array [
+    Object {
+      "counterValue": 0,
+      "decrementCounter": [Function],
+      "incrementCounter": [Function],
+    },
+  ],
+  "current": Object {
+    "counterValue": 0,
+    "decrementCounter": [Function],
+    "incrementCounter": [Function],
+  },
+  "error": undefined,
+}
+`;
