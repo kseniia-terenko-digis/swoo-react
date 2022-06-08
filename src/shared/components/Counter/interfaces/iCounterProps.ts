@@ -1,5 +1,5 @@
-import { SpaceProps, ColorProps } from 'styled-system';
+import { ColorProps } from 'styled-system';
 
-export interface ICounterProps extends SpaceProps, ColorProps {
+export interface ICounterProps extends ColorProps {
   children: React.ReactNode;
 }
